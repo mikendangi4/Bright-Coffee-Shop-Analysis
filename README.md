@@ -25,7 +25,6 @@ This repository contains a detailed sales analysis for a coffee shop chain with 
   1. Morning
   2. Afternoon
   3. Evening
-  4. Night
 
 ### ☕ Product Contribution
 - Coffee & Tea products account for **67%** of total revenue.
